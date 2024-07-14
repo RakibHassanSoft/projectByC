@@ -1,4 +1,4 @@
-##Before start I use this dummy data so that the project works easily
+###Before start I use this dummy data so that the project works easily
 
 ### IT is make by C and used struct as data store
 ```
